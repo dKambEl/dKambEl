@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**dKambEl/dKambEl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **dKambEl**, jeune développeur web en formation et passionné par l'informatique, le développement de sites web dynamiques et la cybersécurité.
 
-Here are some ideas to get you started:
+J’apprends à travers des projets concrets que je construis avec des technologies comme **PHP**, **MySQL**, **HTML**, **CSS** et **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projets réalisés
+
+| Projet | Description | Technologies | Lien |
+|--------|-------------|--------------|------|
+| 💚 Bangam Avenir | Site web vitrine d'une association avec design moderne et contenu dynamique | HTML, CSS, JavaScript, PHP, MySQL | [Voir le projet](https://github.com/dKambEl/bangam-avenir) |
+| 💬 MiniChat | Système de chat en temps réel pour l'entraînement au PHP/MySQL | PHP, MySQL, HTML, CSS | [Voir le projet](https://github.com/dKambEl/minichat) |
+
+---
+
+## 🛠️ Compétences
+
+- ✅ HTML5 / CSS3 / Responsive Design
+- ✅ PHP / MySQL
+- ✅ JavaScript (bases)
+- ✅ Git / GitHub
+- 🛡️ Intérêt pour la cybersécurité et l’IA
+
+---
+
+## 📫 Me contacter
+
+- ✉️ Email : **[à compléter]**
+- 🌐 LinkedIn : **[à compléter si tu en as un]**
+
+Merci de visiter mon profil !
+
