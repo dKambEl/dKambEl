@@ -1,8 +1,8 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je suis **dKambEl**, jeune développeur web en formation et passionné par l'informatique, le développement de sites web dynamiques et la cybersécurité.
+Je suis **dKambEl**, jeune développeur web et passionné par l'informatique, le développement de sites web dynamiques et la cybersécurité.
 
-J’apprends à travers des projets concrets que je construis avec des technologies comme **PHP**, **MySQL**, **HTML**, **CSS** et **JavaScript**.
+En ce moment, j’apprends à travers des projets concrets que je construis avec des technologies comme **PHP**, **MySQL**, **HTML**, **CSS** et **JavaScript**.
 
 ---
 
@@ -18,6 +18,7 @@ J’apprends à travers des projets concrets que je construis avec des technolog
 ## 🛠️ Compétences
 
 - ✅ HTML5 / CSS3 / Responsive Design
+- ✅ Python, Java, C
 - ✅ PHP / MySQL
 - ✅ JavaScript (bases)
 - ✅ Git / GitHub
@@ -27,8 +28,8 @@ J’apprends à travers des projets concrets que je construis avec des technolog
 
 ## 📫 Me contacter
 
-- ✉️ Email : **[à compléter]**
-- 🌐 LinkedIn : **[à compléter si tu en as un]**
+- ✉️ Email : **yvankambel@gmail.com**
+- 🌐 LinkedIn : **www.linkedin.com/in/yvan-kamdem-860636162**
 
 Merci de visiter mon profil !
 
